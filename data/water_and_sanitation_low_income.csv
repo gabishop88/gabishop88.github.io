@@ -1,0 +1,261 @@
+ISO3,Country,Residence Type,Service Type,Year,Coverage,Population,Service level
+AFG,Afghanistan,total,Sanitation,2016,44.20122,15639729.21744,At least basic
+AFG,Afghanistan,total,Drinking water,2016,39.82568,14091529.82843,Basic service
+AFG,Afghanistan,total,Sanitation,2016,9.95484,3522325.01236,Limited service
+AFG,Afghanistan,total,Drinking water,2016,3.16296,1119151.75627,Limited service
+AFG,Afghanistan,total,Sanitation,2016,13.64302,4827314.47122,Open defecation
+AFG,Afghanistan,total,Drinking water,2016,24.22921,8573027.39421,Safely managed service
+AFG,Afghanistan,total,Drinking water,2016,12.13029,4292064.22563,Surface water
+AFG,Afghanistan,total,Sanitation,2016,32.20092,11393659.35806,Unimproved
+AFG,Afghanistan,total,Drinking water,2016,20.65186,7307254.79687,Unimproved
+BDI,Burundi,total,Sanitation,2016,45.85102,4808855.57998,At least basic
+BDI,Burundi,total,Drinking water,2016,60.20415,6314212.5767,At least basic
+BDI,Burundi,total,Sanitation,2016,11.13492,1167830.20963,Limited service
+BDI,Burundi,total,Drinking water,2016,19.5287,2048170.67836,Limited service
+BDI,Burundi,total,Sanitation,2016,2.63455,276311.13596,Open defecation
+BDI,Burundi,total,Drinking water,2016,5.39357,565677.6657,Surface water
+BDI,Burundi,total,Sanitation,2016,40.37952,4235004.95434,Unimproved
+BDI,Burundi,total,Drinking water,2016,14.87358,1559941.09728,Unimproved
+BFA,Burkina Faso,total,Sanitation,2016,20.22442,3771116.95165,At least basic
+BFA,Burkina Faso,total,Drinking water,2016,49.54416,9238177.99093,At least basic
+BFA,Burkina Faso,total,Sanitation,2016,26.91453,5018576.58455,Limited service
+BFA,Burkina Faso,total,Drinking water,2016,26.80505,4998164.02244,Limited service
+BFA,Burkina Faso,total,Sanitation,2016,46.07244,8590829.3408,Open defecation
+BFA,Burkina Faso,total,Drinking water,2016,1.468,273728.83251,Surface water
+BFA,Burkina Faso,total,Sanitation,2016,6.7886,1265826.98614,Unimproved
+BFA,Burkina Faso,total,Drinking water,2016,22.18278,4136278.81158,Unimproved
+CAF,Central African Republic,total,Sanitation,2016,0.60108,27275.29374,Basic service
+CAF,Central African Republic,total,Drinking water,2016,34.68461,1573877.55221,Basic service
+CAF,Central African Republic,total,Sanitation,2016,14.11978,640710.94654,Limited service
+CAF,Central African Republic,total,Drinking water,2016,22.20704,1007685.25631,Limited service
+CAF,Central African Republic,total,Sanitation,2016,24.87702,1128840.20671,Open defecation
+CAF,Central African Republic,total,Sanitation,2016,14.98716,680069.68762,Safely managed service
+CAF,Central African Republic,total,Drinking water,2016,6.59204,299125.66466,Safely managed service
+CAF,Central African Republic,total,Drinking water,2016,4.18344,189831.12821,Surface water
+CAF,Central African Republic,total,Sanitation,2016,45.41496,2060786.86538,Unimproved
+CAF,Central African Republic,total,Drinking water,2016,32.33288,1467163.3986,Unimproved
+COD,Democratic Republic of the Congo,total,Sanitation,2016,2.4061,1895748.5962,Basic service
+COD,Democratic Republic of the Congo,total,Drinking water,2016,26.53409,20905978.72795,Basic service
+COD,Democratic Republic of the Congo,total,Sanitation,2016,20.50023,16151950.65981,Limited service
+COD,Democratic Republic of the Congo,total,Drinking water,2016,12.84154,10117739.36056,Limited service
+COD,Democratic Republic of the Congo,total,Sanitation,2016,11.79174,9290608.64716,Open defecation
+COD,Democratic Republic of the Congo,total,Sanitation,2016,14.57732,11485346.20544,Safely managed service
+COD,Democratic Republic of the Congo,total,Drinking water,2016,16.82175,13253713.18693,Safely managed service
+COD,Democratic Republic of the Congo,total,Drinking water,2016,9.85369,7763640.26032,Surface water
+COD,Democratic Republic of the Congo,total,Sanitation,2016,50.72461,39965481.88746,Unimproved
+COD,Democratic Republic of the Congo,total,Drinking water,2016,33.94892,26748064.4603,Unimproved
+ERI,Eritrea,total,Sanitation,2016,11.93997,403159.88392,At least basic
+ERI,Eritrea,total,Drinking water,2016,51.84972,1750735.86864,At least basic
+ERI,Eritrea,total,Sanitation,2016,9.76394,329685.15286,Limited service
+ERI,Eritrea,total,Drinking water,2016,17.59726,594181.55018,Limited service
+ERI,Eritrea,total,Sanitation,2016,67.00395,2262427.24687,Open defecation
+ERI,Eritrea,total,Drinking water,2016,17.10288,577488.79253,Surface water
+ERI,Eritrea,total,Sanitation,2016,11.29214,381285.70314,Unimproved
+ERI,Eritrea,total,Drinking water,2016,13.45014,454151.78291,Unimproved
+ETH,Ethiopia,total,Sanitation,2016,1.91297,1981902.8724,Basic service
+ETH,Ethiopia,total,Drinking water,2016,33.15383,34348511.63543,Basic service
+ETH,Ethiopia,total,Sanitation,2016,7.45249,7721035.59061,Limited service
+ETH,Ethiopia,total,Drinking water,2016,22.74768,23567382.25288,Limited service
+ETH,Ethiopia,total,Sanitation,2016,28.62128,29652638.30853,Open defecation
+ETH,Ethiopia,total,Sanitation,2016,5.86649,6077885.88341,Safely managed service
+ETH,Ethiopia,total,Drinking water,2016,10.45325,10829931.86679,Safely managed service
+ETH,Ethiopia,total,Drinking water,2016,10.34965,10722592.87629,Surface water
+ETH,Ethiopia,total,Sanitation,2016,56.14677,58170001.34816,Unimproved
+ETH,Ethiopia,total,Drinking water,2016,23.2956,24135045.37896,Unimproved
+GIN,Guinea,total,Sanitation,2016,24.78326,2909166.88226,At least basic
+GIN,Guinea,total,Drinking water,2016,63.71828,7479528.78488,At least basic
+GIN,Guinea,total,Sanitation,2016,25.7054,3017411.05541,Limited service
+GIN,Guinea,total,Drinking water,2016,17.09614,2006819.69033,Limited service
+GIN,Guinea,total,Sanitation,2016,14.8314,1740974.1038,Open defecation
+GIN,Guinea,total,Drinking water,2016,10.14967,1191411.96788,Surface water
+GIN,Guinea,total,Sanitation,2016,34.67994,4070882.04656,Unimproved
+GIN,Guinea,total,Drinking water,2016,9.0359,1060673.37896,Unimproved
+GMB,Gambia,total,Sanitation,2016,14.98732,322097.49697,Basic service
+GMB,Gambia,total,Drinking water,2016,39.086,840010.44625,Basic service
+GMB,Gambia,total,Sanitation,2016,18.317,393656.96698,Limited service
+GMB,Gambia,total,Drinking water,2016,8.98613,193123.96385,Limited service
+GMB,Gambia,total,Sanitation,2016,0.98898,21254.58949,Open defecation
+GMB,Gambia,total,Sanitation,2016,31.40456,674925.99527,Safely managed service
+GMB,Gambia,total,Drinking water,2016,40.47317,869822.67497,Safely managed service
+GMB,Gambia,total,Drinking water,2016,0.09634,2070.46974,Surface water
+GMB,Gambia,total,Sanitation,2016,34.30214,737198.95132,Unimproved
+GMB,Gambia,total,Drinking water,2016,11.35836,244106.44516,Unimproved
+GNB,Guinea-Bissau,total,Sanitation,2016,5.08692,90671.03769,Basic service
+GNB,Guinea-Bissau,total,Drinking water,2016,35.86558,639280.37884,Basic service
+GNB,Guinea-Bissau,total,Sanitation,2016,11.79521,210241.92235,Limited service
+GNB,Guinea-Bissau,total,Drinking water,2016,11.2511,200543.49273,Limited service
+GNB,Guinea-Bissau,total,Sanitation,2016,15.11029,269330.97605,Open defecation
+GNB,Guinea-Bissau,total,Sanitation,2016,10.12428,180458.56798,Safely managed service
+GNB,Guinea-Bissau,total,Drinking water,2016,22.97751,409558.88019,Safely managed service
+GNB,Guinea-Bissau,total,Drinking water,2016,0.78197,13938.12036,Surface water
+GNB,Guinea-Bissau,total,Sanitation,2016,57.88329,1031731.49582,Unimproved
+GNB,Guinea-Bissau,total,Drinking water,2016,29.12383,519113.12788,Unimproved
+HTI,Haiti,total,Sanitation,2016,33.59935,3642161.47399,At least basic
+HTI,Haiti,total,Drinking water,2016,65.02302,7048479.53267,At least basic
+HTI,Haiti,total,Sanitation,2016,26.87329,2913057.94793,Limited service
+HTI,Haiti,total,Drinking water,2016,9.3793,1016713.52567,Limited service
+HTI,Haiti,total,Sanitation,2016,20.67893,2241590.60462,Open defecation
+HTI,Haiti,total,Drinking water,2016,0.07317,7931.40372,Surface water
+HTI,Haiti,total,Sanitation,2016,18.84844,2043165.91059,Unimproved
+HTI,Haiti,total,Drinking water,2016,25.52452,2766851.647,Unimproved
+LBR,Liberia,total,Sanitation,2016,17.30317,793659.86599,At least basic
+LBR,Liberia,total,Drinking water,2016,73.15082,3355272.93596,At least basic
+LBR,Liberia,total,Sanitation,2016,27.23245,1249094.66798,Limited service
+LBR,Liberia,total,Drinking water,2016,7.7616,356008.28322,Limited service
+LBR,Liberia,total,Sanitation,2016,40.58706,1861642.20178,Open defecation
+LBR,Liberia,total,Drinking water,2016,13.32,610960.20701,Surface water
+LBR,Liberia,total,Sanitation,2016,14.87732,682391.24086,Unimproved
+LBR,Liberia,total,Drinking water,2016,5.76758,264546.59284,Unimproved
+MDG,Madagascar,total,Sanitation,2016,1.66016,413285.71653,Basic service
+MDG,Madagascar,total,Drinking water,2016,31.90143,7941660.90573,Basic service
+MDG,Madagascar,total,Sanitation,2016,17.1085,4259052.69896,Limited service
+MDG,Madagascar,total,Drinking water,2016,2.68646,668777.93756,Limited service
+MDG,Madagascar,total,Sanitation,2016,41.85979,10420731.90002,Open defecation
+MDG,Madagascar,total,Sanitation,2016,9.07777,2259854.05733,Safely managed service
+MDG,Madagascar,total,Drinking water,2016,17.8879,4453081.12152,Safely managed service
+MDG,Madagascar,total,Drinking water,2016,16.71473,4161025.62539,Surface water
+MDG,Madagascar,total,Sanitation,2016,30.29378,7541445.62791,Unimproved
+MDG,Madagascar,total,Drinking water,2016,30.80947,7669824.4078,Unimproved
+MLI,Mali,total,Drinking water,2016,76.04239,13661355.83938,At least basic
+MLI,Mali,total,Sanitation,2016,21.64454,3888538.86419,Basic service
+MLI,Mali,total,Sanitation,2016,17.68329,3176882.03968,Limited service
+MLI,Mali,total,Drinking water,2016,4.11499,739276.60819,Limited service
+MLI,Mali,total,Sanitation,2016,7.79879,1401088.35687,Open defecation
+MLI,Mali,total,Sanitation,2016,17.11414,3074631.69059,Safely managed service
+MLI,Mali,total,Drinking water,2016,1.90409,342078.92061,Surface water
+MLI,Mali,total,Sanitation,2016,35.75924,6424307.04938,Unimproved
+MLI,Mali,total,Drinking water,2016,17.93853,3222737.07251,Unimproved
+MOZ,Mozambique,total,Sanitation,2016,30.84502,8584148.6183,At least basic
+MOZ,Mozambique,total,Drinking water,2016,53.55727,14904949.70451,At least basic
+MOZ,Mozambique,total,Sanitation,2016,4.67886,1302123.40825,Limited service
+MOZ,Mozambique,total,Drinking water,2016,10.37425,2887147.1392,Limited service
+MOZ,Mozambique,total,Sanitation,2016,28.39873,7903346.53239,Open defecation
+MOZ,Mozambique,total,Drinking water,2016,11.53335,3209724.00533,Surface water
+MOZ,Mozambique,total,Sanitation,2016,36.07739,10040311.406,Unimproved
+MOZ,Mozambique,total,Drinking water,2016,24.53513,6828108.90607,Unimproved
+MWI,Malawi,total,Drinking water,2016,66.94336,11517775.01746,At least basic
+MWI,Malawi,total,Sanitation,2016,2.24207,385754.01626,Basic service
+MWI,Malawi,total,Sanitation,2016,13.00751,2237974.58573,Limited service
+MWI,Malawi,total,Drinking water,2016,20.16087,3468728.9747,Limited service
+MWI,Malawi,total,Sanitation,2016,6.56213,1129031.26369,Open defecation
+MWI,Malawi,total,Sanitation,2016,23.20141,3991861.381,Safely managed service
+MWI,Malawi,total,Drinking water,2016,3.30297,568284.96664,Surface water
+MWI,Malawi,total,Sanitation,2016,54.98688,9460632.75263,Unimproved
+MWI,Malawi,total,Drinking water,2016,9.5928,1650465.14272,Unimproved
+NER,Niger,total,Drinking water,2016,45.8187,9525153.88503,At least basic
+NER,Niger,total,Sanitation,2016,-1.60384,-333417.93957,Basic service
+NER,Niger,total,Sanitation,2016,8.47043,1760899.62332,Limited service
+NER,Niger,total,Drinking water,2016,17.1756,3570600.33826,Limited service
+NER,Niger,total,Sanitation,2016,71.02161,14764532.61744,Open defecation
+NER,Niger,total,Sanitation,2016,14.59767,3034679.06098,Safely managed service
+NER,Niger,total,Drinking water,2016,3.81754,793620.36545,Surface water
+NER,Niger,total,Sanitation,2016,7.51413,1562096.63722,Unimproved
+NER,Niger,total,Drinking water,2016,33.18815,6899415.63786,Unimproved
+PRK,Democratic People's Republic of Korea,total,Sanitation,2016,82.40861,20855693.48812,At least basic
+PRK,Democratic People's Republic of Korea,total,Drinking water,2016,28.07143,7104223.12366,Basic service
+PRK,Democratic People's Republic of Korea,total,Sanitation,2016,1.70734,432088.16512,Limited service
+PRK,Democratic People's Republic of Korea,total,Drinking water,2016,0.6841,173128.71383,Limited service
+PRK,Democratic People's Republic of Korea,total,Sanitation,2016,0,0,Open defecation
+PRK,Democratic People's Republic of Korea,total,Drinking water,2016,66.79067,16903158.66583,Safely managed service
+PRK,Democratic People's Republic of Korea,total,Drinking water,2016,0.2697,68255.53688,Surface water
+PRK,Democratic People's Republic of Korea,total,Sanitation,2016,15.88405,4019882.60338,Unimproved
+PRK,Democratic People's Republic of Korea,total,Drinking water,2016,4.1841,1058897.95981,Unimproved
+RWA,Rwanda,total,Sanitation,2016,65.41229,7632848.55447,At least basic
+RWA,Rwanda,total,Drinking water,2016,47.29737,5519048.65853,Basic service
+RWA,Rwanda,total,Sanitation,2016,13.87995,1619627.64245,Limited service
+RWA,Rwanda,total,Drinking water,2016,22.21092,2591754.02441,Limited service
+RWA,Rwanda,total,Sanitation,2016,2.3288,271743.15847,Open defecation
+RWA,Rwanda,total,Drinking water,2016,10.62684,1240028.3093,Safely managed service
+RWA,Rwanda,total,Drinking water,2016,6.48333,756528.41489,Surface water
+RWA,Rwanda,total,Sanitation,2016,18.37896,2144609.86013,Unimproved
+RWA,Rwanda,total,Drinking water,2016,13.38154,1561469.59194,Unimproved
+SDN,Sudan,total,Sanitation,2016,36.48563,14538585.09779,At least basic
+SDN,Sudan,total,Drinking water,2016,60.21589,23994483.89233,At least basic
+SDN,Sudan,total,Sanitation,2016,8.30542,3309496.38718,Limited service
+SDN,Sudan,total,Drinking water,2016,26.69531,10637395.84611,Limited service
+SDN,Sudan,total,Sanitation,2016,24.39856,9722200.91994,Open defecation
+SDN,Sudan,total,Drinking water,2016,9.37477,3735604.61517,Surface water
+SDN,Sudan,total,Sanitation,2016,30.81039,12277149.77799,Unimproved
+SDN,Sudan,total,Drinking water,2016,3.71404,1479948.11101,Unimproved
+SLE,Sierra Leone,total,Sanitation,2016,2.23601,163873.73516,Basic service
+SLE,Sierra Leone,total,Drinking water,2016,49.8186,3651128.34877,Basic service
+SLE,Sierra Leone,total,Sanitation,2016,34.80435,2550757.40775,Limited service
+SLE,Sierra Leone,total,Drinking water,2016,8.36151,612802.23933,Limited service
+SLE,Sierra Leone,total,Sanitation,2016,18.26152,1338358.39077,Open defecation
+SLE,Sierra Leone,total,Sanitation,2016,12.98034,951309.47993,Safely managed service
+SLE,Sierra Leone,total,Drinking water,2016,9.21888,675637.35513,Safely managed service
+SLE,Sierra Leone,total,Drinking water,2016,16.74499,1227214.83176,Surface water
+SLE,Sierra Leone,total,Sanitation,2016,31.71778,2324546.98698,Unimproved
+SLE,Sierra Leone,total,Drinking water,2016,15.85602,1162063.22523,Unimproved
+SOM,Somalia,total,Drinking water,2016,50.2746,7131770.85226,At least basic
+SOM,Somalia,total,Sanitation,2016,7.08558,1005133.98745,Basic service
+SOM,Somalia,total,Sanitation,2016,16.90477,2398049.17974,Limited service
+SOM,Somalia,total,Drinking water,2016,24.29798,3446822.83319,Limited service
+SOM,Somalia,total,Sanitation,2016,29.52795,4188727.25963,Open defecation
+SOM,Somalia,total,Sanitation,2016,27.97904,3969003.99441,Safely managed service
+SOM,Somalia,total,Drinking water,2016,6.62681,940055.34331,Surface water
+SOM,Somalia,total,Sanitation,2016,18.50267,2624720.57892,Unimproved
+SOM,Somalia,total,Drinking water,2016,18.80061,2666986.10672,Unimproved
+SSD,South Sudan,total,Sanitation,2016,12.02581,1302698.29941,At least basic
+SSD,South Sudan,total,Drinking water,2016,41.18681,4461569.7935,At least basic
+SSD,South Sudan,total,Sanitation,2016,7.98981,865497.99229,Limited service
+SSD,South Sudan,total,Drinking water,2016,32.35358,3504707.95055,Limited service
+SSD,South Sudan,total,Sanitation,2016,64.5557,6993008.99665,Open defecation
+SSD,South Sudan,total,Drinking water,2016,12.90088,1397490.36393,Surface water
+SSD,South Sudan,total,Sanitation,2016,15.42868,1671314.74383,Unimproved
+SSD,South Sudan,total,Drinking water,2016,13.55873,1468751.9191,Unimproved
+SYR,Syrian Arab Republic,total,Sanitation,2016,90.05918,15729345.73329,At least basic
+SYR,Syrian Arab Republic,total,Drinking water,2016,93.66914,16359844.77844,At least basic
+SYR,Syrian Arab Republic,total,Sanitation,2016,8.81193,1539052.69149,Limited service
+SYR,Syrian Arab Republic,total,Drinking water,2016,5.95554,1040168.3404,Limited service
+SYR,Syrian Arab Republic,total,Sanitation,2016,0.68211,119134.59004,Open defecation
+SYR,Syrian Arab Republic,total,Drinking water,2016,0,0,Surface water
+SYR,Syrian Arab Republic,total,Sanitation,2016,0.44678,78032.52461,Unimproved
+SYR,Syrian Arab Republic,total,Drinking water,2016,0.37533,65552.71069,Unimproved
+TCD,Chad,total,Sanitation,2016,1.70421,248160.61395,Basic service
+TCD,Chad,total,Drinking water,2016,39.18308,5705705.95494,Basic service
+TCD,Chad,total,Sanitation,2016,5.21568,759488.86758,Limited service
+TCD,Chad,total,Drinking water,2016,13.75344,2002728.88002,Limited service
+TCD,Chad,total,Sanitation,2016,65.7852,9579416.4968,Open defecation
+TCD,Chad,total,Sanitation,2016,9.4847,1381129.41003,Safely managed service
+TCD,Chad,total,Drinking water,2016,5.56562,810446.66327,Safely managed service
+TCD,Chad,total,Drinking water,2016,7.41105,1079171.07707,Surface water
+TCD,Chad,total,Sanitation,2016,17.81022,2593462.61193,Unimproved
+TCD,Chad,total,Drinking water,2016,34.08682,4963605.42485,Unimproved
+TGO,Togo,total,Sanitation,2016,8.19789,615657.62084,Basic service
+TGO,Togo,total,Drinking water,2016,47.16663,3542191.63199,Basic service
+TGO,Togo,total,Sanitation,2016,25.56026,1919563.22628,Limited service
+TGO,Togo,total,Drinking water,2016,5.77531,433723.1571,Limited service
+TGO,Togo,total,Sanitation,2016,47.76799,3587353.20898,Open defecation
+TGO,Togo,total,Sanitation,2016,8.51643,639579.58079,Safely managed service
+TGO,Togo,total,Drinking water,2016,17.66096,1326329.39644,Safely managed service
+TGO,Togo,total,Drinking water,2016,12.94988,972530.05819,Surface water
+TGO,Togo,total,Sanitation,2016,9.95743,747798.36303,Unimproved
+TGO,Togo,total,Drinking water,2016,16.44721,1235177.75583,Unimproved
+TJK,Tajikistan,total,Sanitation,2016,95.68755,8289962.29431,At least basic
+TJK,Tajikistan,total,Drinking water,2016,24.90001,2157230.82217,Basic service
+TJK,Tajikistan,total,Sanitation,2016,2.72363,235963.43815,Limited service
+TJK,Tajikistan,total,Drinking water,2016,2.94078,254776.32395,Limited service
+TJK,Tajikistan,total,Sanitation,2016,0.41586,36028.47252,Open defecation
+TJK,Tajikistan,total,Drinking water,2016,52.72285,4567683.27502,Safely managed service
+TJK,Tajikistan,total,Drinking water,2016,15.62086,1353325.18772,Surface water
+TJK,Tajikistan,total,Sanitation,2016,1.17297,101620.97202,Unimproved
+TJK,Tajikistan,total,Drinking water,2016,3.81551,330559.39167,Unimproved
+UGA,Uganda,total,Sanitation,2016,19.25369,7633928.94992,At least basic
+UGA,Uganda,total,Drinking water,2016,36.3561,14414893.19244,Basic service
+UGA,Uganda,total,Sanitation,2016,16.46231,6527170.84809,Limited service
+UGA,Uganda,total,Drinking water,2016,29.58321,11729496.62655,Limited service
+UGA,Uganda,total,Sanitation,2016,6.46366,2562788.65499,Open defecation
+UGA,Uganda,total,Drinking water,2016,13.06224,5179071.06725,Safely managed service
+UGA,Uganda,total,Drinking water,2016,6.49352,2574627.38707,Surface water
+UGA,Uganda,total,Sanitation,2016,57.82033,22925283.48435,Unimproved
+UGA,Uganda,total,Drinking water,2016,14.50493,5751083.72432,Unimproved
+YEM,Yemen,total,Drinking water,2016,56.78562,15427635.90185,At least basic
+YEM,Yemen,total,Sanitation,2016,34.37328,9338604.06022,Basic service
+YEM,Yemen,total,Sanitation,2016,4.8166,1308584.54106,Limited service
+YEM,Yemen,total,Drinking water,2016,26.63383,7235934.06398,Limited service
+YEM,Yemen,total,Sanitation,2016,14.20945,3860452.49317,Open defecation
+YEM,Yemen,total,Sanitation,2016,17.72454,4815439.25166,Safely managed service
+YEM,Yemen,total,Drinking water,2016,3.29526,895263.06909,Surface water
+YEM,Yemen,total,Sanitation,2016,28.87614,7845129.65415,Unimproved
+YEM,Yemen,total,Drinking water,2016,13.28529,3609376.535,Unimproved
