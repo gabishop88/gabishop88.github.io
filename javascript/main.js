@@ -189,6 +189,7 @@ function set_scene(prev) {
             .attr('cx', (_,i) => (i % cols) * col_width + r)
             .attr('cy', (_,i) => Math.floor(i / cols) * col_width + r)
             .attr('stroke', d => color_protected(d.Sanitation));
+            d3.select('#data').selectAll('circle').on('click', d => console.log(d.target.id));
 
             break;
         default:
