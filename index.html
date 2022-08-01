@@ -5,8 +5,18 @@
         <link rel="stylesheet" href="./style/style.css"/>
     </head>
     <body onload="init()">
-        <p onclick="clicktext()">Hello There</p>
-        <svg id="canvas"></svg>
+        <div class="vflex">
+            <div class="vflex-item" style="flex: 1;">
+                <p>1</p>
+            </div>
+            <div class="chart-container" style="flex: 3;" >
+                <div id="tooltip"></div>
+                <svg></svg>
+            </div>
+            <div class="vflex-item" style="flex: 1;">
+                <p>3</p>
+            </div>
+        </div>
 
         <script src="https://d3js.org/d3.v7.min.js"></script>
         <script src="./javascript/main.js"></script>
