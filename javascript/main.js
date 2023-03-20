@@ -12,6 +12,7 @@
 
 // Create root element
 // https://www.amcharts.com/docs/v5/getting-started/#Root_element
+var am5 = require("https://cdn.amcharts.com/lib/5/index.js");
 var root = am5.Root.new("chartdiv");
 
 // Set themes
