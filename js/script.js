@@ -2,8 +2,8 @@
 var map = L.map('map').setView([40.1018, -88.2272], 15); // Centered on University of Illinois campus, zoom level 15
 
 // Add a tile layer (map background)
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors',
+L.tileLayer('https://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+    attribution: 'Map data &copy; <a href="https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer">ArcGIS World Imagery</a> contributors',
     maxZoom: 18,
 }).addTo(map);
 
