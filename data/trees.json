@@ -1,0 +1,142 @@
+[
+    {
+        "name": "Douglas-fir",
+        "location_description": "In Front of Alma Mater and to the north east of Algeld Hall",
+        "fun_fact": "The douglas-fir is a conifer which produces seed-containing cones instead of flowers. Most conifers, including this one, are evergreens. The genus name Pseudotsuga means \u201cfalse hemlock\u201d, referring to another similar-looking species. There is a true hemlock located near this stand of Douglas-fir, can you spot it?",
+        "latin_name": "Pseudotsuga menziesii",
+        "location": "40.109760,-88.228156"
+    },
+    {
+        "name": "Eastern white pine",
+        "location_description": "East of S. Wright Street and south east of Altgeld Hall",
+        "fun_fact": "The eastern white pine, a conifer, has wood that is easily workable and commonly used in homes. It is usually planted in reforesting efforts in mining areas because it is fast growing and can withstand highly acidic soils. In optimal conditions, this pine can grow up to 80 feet tall.",
+        "latin_name": "Pinus strobus",
+        "location": "40.108827,-88.227979"
+    },
+    {
+        "name": "Chestnut oak",
+        "location_description": "East of the Henry Administration Building on the Main Quad",
+        "fun_fact": "Chestnut oak is native to the hilly forests of southern Illinois. It is named for the shape of its leaves, which more closely resemble those of the chestnut tree than other oaks. This tree has attractive, glossy leaves and is prized for its beautiful silvery bark.",
+        "latin_name": "Quercus prinus",
+        "location": "40.108478,-88.227722"
+    },
+    {
+        "name": "Paperbark maple",
+        "location_description": "South of the Henry Administration Building and west on the Main Quad",
+        "fun_fact": "The paperbark maple has reddish brown bark that is ephemeral, meaning that it curls and peels off regularly. The leaves of this species are unlike those of other maples \u2014 they consist of three bluntly toothed leaflets. In the fall, the leaves turn brilliantly red.",
+        "latin_name": "Acer griseum",
+        "location": "40.108024,-88.228095"
+    },
+    {
+        "name": "Honey locust",
+        "location_description": "North east of the English building on the Main Quad",
+        "fun_fact": "The honey locust belongs to the pea family. It produces large pods that contain a sweet, honey-like pulp. The pods are an important food source for many wild animals including deer, birds, rabbits, squirrels, and opossums. The pods are also being studied as a potential biofuel source.",
+        "latin_name": "Gleditsia triacanthos iermis",
+        "location": "40.107862,-88.227711"
+    },
+    {
+        "name": "Hawthorn spp.",
+        "location_description": "South of the English building and west of the Main Quad",
+        "fun_fact": "The hawthorn belongs to the rose family, rosaceae. In the fall, it produces small, bright red fruits. The leaves and fruit of this tree are sometimes used as an herbal medicine to treat a variety of illnesses, including heart disease and digestive problems, as well as applied topically for frost bite and other skin injuries.",
+        "latin_name": "Crataegus",
+        "location": "40.107198,-88.228105"
+    },
+    {
+        "name": "American sycamore",
+        "location_description": "South east of Gregory Hall and North west of the Undergraduate Library",
+        "fun_fact": "These trees produce unusual, spiny seed balls that remain on the tree throughout the winter. When sycamore trees reach maturity, their bark becomes distinctively smooth and white. Many people believe this sycamore is the oldest tree on the University of Illinois campus.",
+        "latin_name": "Platanus occidentalis",
+        "location": "40.105195,-88.227870"
+    },
+    {
+        "name": "London planetree",
+        "location_description": "South east of Foellinger Auditorium and West of Smith Memorial Hall",
+        "fun_fact": "This species occurred as a spontaneous hybrid between the Oriental sycamore and American sycamore. This tree is ideal for urban settings because of its shallow root system, ability to thrive in compact soils, and it can handle high levels of pollutants. ",
+        "latin_name": "Platanus x. acerifolia",
+        "location": "40.105499,-88.226624"
+    },
+    {
+        "name": "White oak",
+        "location_description": "East of Foellinger Auditorium and North west of Smith Memorial hall; north of the London Planetree tree",
+        "fun_fact": "The white oak is the official state tree of Illinois. It can be found in every county in the state. The white oak is named for the smooth, white patches left behind when bark is removed by the harmless fungi Aleurodiscus oakesii.",
+        "latin_name": "Quercus alba",
+        "location": "40.105905,-88.226852"
+    },
+    {
+        "name": "Shagbark hickory",
+        "location_description": "North of the Foreign Languages Building and south of Davenport Hall ",
+        "fun_fact": "The peeling, shaggy bark of this hickory is unique and makes this species easily identifiable. Its wood is desirable for its strong and pleasant aroma and is often used to smoke meats and other foods. This tree also produces an edible nut, which Native Americans collected and stored in huge quantities to use as a staple of their diet.",
+        "latin_name": "Carya ovata",
+        "location": "40.106589,-88.226380"
+    },
+    {
+        "name": "Kentucky coffeetree",
+        "location_description": "North of the Foreign Languages Building and south of Davenport Hall; north east of the Shagbark Hickory tree",
+        "fun_fact": "Years ago, a much larger Kentucky coffeetree stood in its place\u2014until it was struck by lightning! Because of the damage, it began to die. Before the tree was removed, branch cuttings were collected from it and used to propagate new seedlings that would be genetically identical. The tree you are looking at is a genetic clone of the original specimen.",
+        "latin_name": "Gymnocladus dioicus",
+        "location": "40.106811,-88.226423"
+    },
+    {
+        "name": "Saucer magnolia",
+        "location_description": "East of Davenport Hall on the Main Quad",
+        "fun_fact": "This magnolia has large, furry buds that open in early spring to display beautiful blooms in white and pink that can grow up to ten inches across. The branches of this magnolia make excellent nesting sites for wild birds and squirrels. Are there any nests in these trees?",
+        "latin_name": "Magnolia x soulangeana",
+        "location": "40.107559,-88.226535"
+    },
+    {
+        "name": "Eastern redbud",
+        "location_description": "North west corner of Davenport Hall on the Main Quad",
+        "fun_fact": "The eastern redbud is a small tree in the pea family recognized by the bright pinkish-purple flowers it produces each spring. The individual flowers are quite small, but they grow in eye-catching bunches along the branches which highlights the architecture of these trees. The leaves of the redbud are heart-shaped.",
+        "latin_name": "Cercis canadensis",
+        "location": "40.107900,-88.226490"
+    },
+    {
+        "name": "Ginkgo",
+        "location_description": "West of Noyes Laboratory on Main Quad",
+        "fun_fact": "Ginkgo biloba is the last remaining species in the genus Gingkophyta, which appeared in the fossil record over 270 million years ago. For many years, the gingko tree was thought to be extinct too. However, a single remaining tree was discovered at a Buddhist monastery from which the entire species was revived.",
+        "latin_name": "Gingko biloba",
+        "location": "40.108522,-88.226612"
+    },
+    {
+        "name": "Baldcypress",
+        "location_description": "East of the Illini Union and North of Haker Hall",
+        "fun_fact": "Although the baldcypress has needle-like leaves and seed-bearing cones, it is not an evergreen like most other conifers. In the fall, the needles turn orange or red and drop to the ground. This tree is one of the longest living organisms\u2014the oldest known specimen is currently over 1,620 years old.",
+        "latin_name": "Taxodium distichum",
+        "location": "40.109448,-88.226800"
+    },
+    {
+        "name": "Bur oak",
+        "location_description": "South of W Green Street and north of the Natural History Building",
+        "fun_fact": "The bur oak is named for the unusual, fringed overcup that covers the acorns. See if you can find one on the ground! The deeply ridged bark is very thick, which helps to protect this tree from prairie fires in the native Illinois savanna ecosystem.",
+        "latin_name": "Quercus macrocarpa",
+        "location": "40.110017,-88.225840"
+    },
+    {
+        "name": "Sugar maple",
+        "location_description": "South of W Green Street and north of the Natural History Building; north of the Bur Oak tree",
+        "fun_fact": "In the fall, the sugar maple displays beautiful deep red and orange leaves. Sugar maple grows quickly and are one of the most common species in Midwestern deciduous forests. Sugar maple is particularly important in Canada, as it\u2019s one of their main sources of sap for maple syrup.",
+        "latin_name": "Acer saccharum",
+        "location": "40.110313,-88.225733"
+    },
+    {
+        "name": "River birch",
+        "location_description": "North of the Boneyard Creek and south of the Bardeen Quadrangle",
+        "fun_fact": "These young river birch have several layers of papery, peeling bark. As they mature, the papery bark will be replaced by more solid, white scales. River birch thrives in the wet and nutrient-rich soil along rivers. River birch is a \u2018pioneer\u2019 species, meaning it tends to be one of the first species to establish in an area, usually after flooding events.",
+        "latin_name": "Betula nigra",
+        "location": "40.1114,-88.226840"
+    },
+    {
+        "name": "Flowering crabapple",
+        "location_description": "East of Engineering Hall and North of W Green Street",
+        "fun_fact": "The Japanese flowering crabapple grows as a round-headed tree with narrow leaves and beautiful arching branches. It\u2019s well known for its flowers, which are white or pale pink with red buds. It also grows tiny fruits that are red and yellow. In spring, our campus is adorned in a bounty of blooms from magnolias, redbuds, and these flowering crabapples.",
+        "latin_name": "Malus floribunda",
+        "location": "40.110716,-88.227428"
+    },
+    {
+        "name": "American beech",
+        "location_description": "South of W Green Street and north east of the Alma Mater",
+        "fun_fact": "The American beech has distinctly smooth, silvery bark. Due to the hardness and density of the bark, these trees were generally left uncut until the invention of power tools in the 20th century. These strong trees are shade-tolerant and are often found in very old forests in the latest stages of succession.",
+        "latin_name": "Fagus grandifolia",
+        "location": "40.110173,-88.228136"
+    }
+]
